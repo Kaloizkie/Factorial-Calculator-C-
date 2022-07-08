@@ -2,7 +2,7 @@
 
 ---
 
-_This project illustrates how to make a factorial calculator using C++ language.
+_This project illustrates how to make a factorial calculator using C++ language._
 
 ---
 
